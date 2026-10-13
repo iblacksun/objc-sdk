@@ -1,0 +1,1 @@
+../../Sources/Foundation/File/LCFileQuery.h

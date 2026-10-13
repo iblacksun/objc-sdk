@@ -1,0 +1,1 @@
+../../Sources/Foundation/Object/LCObject+Subclass.h

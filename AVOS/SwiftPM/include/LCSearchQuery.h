@@ -1,0 +1,1 @@
+../../Sources/Foundation/Search/LCSearchQuery.h

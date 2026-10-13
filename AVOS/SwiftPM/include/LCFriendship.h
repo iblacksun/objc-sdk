@@ -1,0 +1,1 @@
+../../Sources/Foundation/User/LCFriendship.h
